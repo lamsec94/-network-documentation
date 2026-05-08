@@ -1,4 +1,4 @@
-# Homelab Network Documentation
+# Network Documentation
 
 Network architecture documentation for a segmented, enterprise-style homelab built around
 OPNsense, VLAN-aware switching, centralized DNS, and remote access through Tailscale.
